@@ -2,7 +2,9 @@
 
 This is the official open-source repository for [PropEn](https://openreview.net/pdf?id=dhFHO90INk), developed by [tagas](https://tagas.github.io/aboutme/) from [Prescient Design, a Genentech accelerator](https://gene.com/prescient).
 
+<div align="center">
 <img src="./assets/propen_3in1.png" alt="Conceptual summary" width="600" height="500">
+</div>
 
 PropEn is a general method that combines generation and optimization into a single model. Suppose you have a dataset of objects \( x \) with labels \( y \) that measure a certain property (for example, the surface area of an object). Your goal is to increase (or otherwise improve) this property for a given input.
 

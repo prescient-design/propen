@@ -1,6 +1,6 @@
 # Property Enhancer (PropEn)
 
-This is the official open-source repository for [PropEn](https://openreview.net/pdf?id=dhFHO90INk), developed by [tagas](https://tagas.github.io/aboutme/) from [Prescient Design, a Genentech accelerator](https://gene.com/prescient).
+This is the official repository for [PropEn](https://openreview.net/pdf?id=dhFHO90INk), developed by [ntagas](https://tagas.github.io/aboutme/) from [Prescient Design, a Genentech accelerator](https://gene.com/prescient).
 
 <div align="center">
 <img src="./assets/propen_3in1.png" alt="Conceptual summary" width="600" height="500">

@@ -2,7 +2,7 @@
 
 This is the official open-source repository for [PropEn](https://openreview.net/pdf?id=dhFHO90INk), developed by [tagas](https://tagas.github.io/aboutme/) from [Prescient Design, a Genentech accelerator](https://gene.com/prescient).
 
-![Conceptual summary](./assets/propen_3in1.png)
+<img src="./assets/propen_3in1.png" alt="Conceptual summary" width="300" height="200">
 
 PropEn is a general method that combines generation and optimization into a single model. Suppose you have a dataset of objects \( x \) with labels \( y \) that measure a certain property (for example, the surface area of an object). Your goal is to increase (or otherwise improve) this property for a given input.
 
@@ -31,7 +31,7 @@ Assuming you have [miniconda](https://docs.conda.io/en/latest/miniconda.html) or
 
 ```bash
 pip install -r requirements.in
-
+```
 
 ## Running the Demo
 The entry point run_propen_demo is a wrapper that handles dataset matching, training, and sampling for a toy dataset. To use different datasets, modify the utilities in the utils directory; to adjust the model architecture or training procedures, see the propen directory.

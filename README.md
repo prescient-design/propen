@@ -1,5 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
 # Property Enhancer (PropEn)
 
 This is the official repository for [PropEn](https://openreview.net/pdf?id=dhFHO90INk), developed by [ntagas](https://tagas.github.io/aboutme/) from [Prescient Design, a Genentech accelerator](https://gene.com/prescient).
